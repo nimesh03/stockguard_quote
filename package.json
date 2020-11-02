@@ -9,8 +9,8 @@
     "react-scripts": "^4.0.0"
   },
   "scripts": {
-    "start": "npm start",
-    "build": "npm build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "postinstall": "npm run build"
   }
 }
