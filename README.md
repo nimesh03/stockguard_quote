@@ -1,0 +1,1 @@
+# stockguard_quote
