@@ -18,7 +18,7 @@ SECRET_KEY = '4_739jm)-4x1c*_dlt58$%5xu(p+e*via=p@t=ka^!%#w&1r)6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://stockguard-quote.herokuapp.com/', '127.0.0.1:8000']
+ALLOWED_HOSTS = ['https://stockguard-quote.herokuapp.com/', '127.0.0.1:3000']
 
 
 # Application definition
